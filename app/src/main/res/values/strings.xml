@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Media_player_1.0</string>
+    <string name="button_next"><![CDATA[-------->]]></string>
+    <string name="button_previos"><![CDATA[<--------]]></string>
+</resources>
